@@ -2,11 +2,11 @@
 
 What i need for cooking 
 
--milk 
--eggs 
--honey 
--mustard 
--bread 
--butter
--nuts
--pen
+- milk 
+- eggs 
+- honey 
+- mustard 
+- bread 
+- butter
+- nuts
+- pen
